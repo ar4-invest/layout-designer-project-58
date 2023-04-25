@@ -47,15 +47,19 @@ h3 {
     font-size: 34px;
 }
 
-header::before {
-  position: absolute;
-  width: 1110px;
-  height: 500px;
-      
-  background-image: url("../images/background.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  opacity: 90%;
+header {
+    padding: 100px 0;    
+}
 
-  content: "";
+header::before {
+    position: absolute;
+    width: 1110px;
+    height: 500px;
+
+    background-image: url("../images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 90%;
+
+    content: "";
 }
