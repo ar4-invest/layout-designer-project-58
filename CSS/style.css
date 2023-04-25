@@ -25,7 +25,6 @@ body {
     font-size: 16px;
     line-height: 1.6em;
     color: var(--color-dark);
-    width: 1110px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -54,12 +53,12 @@ header {
 header::before {
     position: absolute;
     width: 1110px;
-    height: 500px;
+    height: 600px;
 
     background-image: url("../images/background.png");
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: 90%;
+    opacity: 10%;
 
     content: "";
 }
