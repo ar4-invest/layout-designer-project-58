@@ -27,7 +27,8 @@ body {
     color: var(--color-dark);
     max-width: 1110px;
     align-content: center;
-    margin: 100px 0;
+    margin: 0 auto;
+    padding: 100px 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
