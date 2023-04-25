@@ -26,7 +26,6 @@ body {
     line-height: 1.6em;
     color: var(--color-dark);
     max-width: 1110px;
-    align-content: center;
     margin: 0 auto;
     padding: 100px 0;
 }
@@ -38,6 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
     font-size: 72px;
+    margin: 0 auto;
 }
 
 h2 {
