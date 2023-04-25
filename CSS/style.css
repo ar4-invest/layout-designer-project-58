@@ -48,7 +48,11 @@ h3 {
 }
 
 .header-background::before {
-  background-image: url(../images/background.png);
+  position: absolute;
+  width: 100%;
+  height: 100%;  
+    
+  background-image: url("../images/background.png");
   background-repeat: no-repeat;
   background-size: cover;
 
