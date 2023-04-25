@@ -38,6 +38,10 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.2em;
 }
 
+header, main, section, footer {
+    max-width: 1110px;
+}
+
 h1 {
     font-size: 72px;
 }
@@ -50,15 +54,11 @@ h3 {
     font-size: 34px;
 }
 
-header {
-    width: 1110px;
-}
-
 header::before {
     position: absolute;
     width: 1110px;
     height: 600px;
-
+    margin: 0 auto;
     background-image: url("../images/background.png");
     background-repeat: no-repeat;
     background-size: cover;
