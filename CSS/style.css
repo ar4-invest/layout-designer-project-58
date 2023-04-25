@@ -50,6 +50,7 @@ h3 {
 header::before {
   position: absolute;
   width: 1110px;
+  height: 500px;
       
   background-image: url("../images/background.png");
   background-repeat: no-repeat;
