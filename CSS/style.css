@@ -46,3 +46,11 @@ h2 {
 h3 {
     font-size: 34px;
 }
+
+.header-background::before {
+  background-image: url("../images/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  content: "";
+}
