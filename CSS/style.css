@@ -31,19 +31,38 @@ body {
     line-height: 1.6em;
     color: var(--color-dark);
     width: 100vw;
+    position: relative;
+}
+
+header {
+    position: absolute;
+    width: 1440px;
+    height: 914px;
+    left: 0px;
+    top: 0px;
+    background: #F5F4F0;
+}
+
+header::before {
+    position: absolute;
+    width: 1440px;
+    height: 914px;
+    
+    background-image: url("../images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 10%;
+
+    content: "";
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Neucha';
     line-height: 1.2em;
-}
-
-header, main, section, footer {
-    max-width: 1110px;
 }
 
 h1 {
     font-size: 72px;
+    font-family: 'Neucha';    
 }
 
 h2 {
@@ -52,17 +71,4 @@ h2 {
 
 h3 {
     font-size: 34px;
-}
-
-header::before {
-    position: absolute;
-    width: 1110px;
-    height: 600px;
-    margin: 0 auto;
-    background-image: url("../images/background.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    opacity: 10%;
-
-    content: "";
 }
