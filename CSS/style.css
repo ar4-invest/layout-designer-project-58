@@ -39,6 +39,7 @@ body {
 }
 
 .header {
+    position: relative;
     max-width: 1110px;
     margin: 0 auto;
     background: #F5F4F0;
