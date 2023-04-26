@@ -13,7 +13,6 @@
 * {
     margin: 0;
     padding: 0;
-    border: 1px;
 }
 
 @font-face {
@@ -34,7 +33,8 @@ body {
 }
 
 .header-container {
-    position: relative;   
+    position: relative;
+    border: 1px;
 }
 
 .header {
@@ -43,6 +43,7 @@ body {
     left: 100px;
     top: 100px;
     background: #F5F4F0;
+    border: 1px;
 }
 
 .header::before {
