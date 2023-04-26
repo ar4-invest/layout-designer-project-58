@@ -45,6 +45,17 @@ h1, h2, h3, h4, h5, h6 {
     background: #F5F4F0;
 }
 
+.header-container::before {
+    
+    
+    background-image: url("../images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 10%;
+
+    
+}
+
 .header {
     position: relative;
     max-width: 1110px;
@@ -57,19 +68,6 @@ h1, h2, h3, h4, h5, h6 {
     position: absolute;
     top: 55px;
     right: -270px;
-}
-
-.header::before {
-    position: absolute;
-    top: 0;
-    left: 0;
-    
-    background-image: url("../images/background.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    opacity: 10%;
-
-    content: "";
 }
 
 .header-columns-2 {
