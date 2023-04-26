@@ -45,11 +45,17 @@ h1, h2, h3, h4, h5, h6 {
     
 }
 
-.header-container {
+.header-container::before {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+        
     background-image: url("../images/background.png");
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 10%;
+    
+    content: "";
 }
 
 .header {
