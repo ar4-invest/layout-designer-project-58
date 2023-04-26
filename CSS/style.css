@@ -33,7 +33,7 @@ body {
 }
 
 .header-container {
-    
+    position: relative;
     border: 1px solid;
     padding: 10px;
 }
@@ -45,6 +45,12 @@ body {
     background: #F5F4F0;
     border: 1px solid;
     padding: 10px;
+}
+
+.img-header {
+    position: absolute;
+    top: 100px;
+    left: -250px;
 }
 
 .header::before {
