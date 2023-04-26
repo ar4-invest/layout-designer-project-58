@@ -47,8 +47,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .header-container::before {
     position: absolute;
-    top: 50px;
-    left: 50px;
+    width: 1440px;
+    height: 960px;
         
     background-image: url("../images/background.png");
     background-repeat: no-repeat;
