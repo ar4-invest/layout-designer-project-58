@@ -32,6 +32,10 @@ body {
     color: var(--color-dark);   
 }
 
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1.2em;
+}
+
 .header-container {
     position: relative;
     border: 1px solid;
@@ -66,8 +70,9 @@ body {
     content: "";
 }
 
-h1, h2, h3, h4, h5, h6 {
-    line-height: 1.2em;
+.header-columns-2 {
+    columns: 2;
+    column-gap: 30px;
 }
 
 .head-h1 {
