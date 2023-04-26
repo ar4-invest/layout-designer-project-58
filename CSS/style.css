@@ -42,18 +42,14 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     border: 1px solid;
     padding: 10px;
-    background: #F5F4F0;
+    
 }
 
 .header-container {
-    
-    
     background-image: url("../images/background.png");
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 10%;
-
-    
 }
 
 .header {
@@ -61,7 +57,7 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 1110px;
     margin: 0 auto;
     border: 1px solid;
-    padding: 10px;
+    padding: 100px 0;
 }
 
 .img-header {
