@@ -33,17 +33,18 @@ body {
 }
 
 .header-container {
-    position: relative;
-    border: 1px;
+    
+    border: 1px solid;
+    padding: 10px;
 }
 
 .header {
-    position: absolute;
+    
     width: 1110px;
-    left: 100px;
-    top: 100px;
+    
     background: #F5F4F0;
-    border: 1px;
+    border: 1px solid;
+    padding: 10px;
 }
 
 .header::before {
