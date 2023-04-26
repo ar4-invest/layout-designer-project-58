@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
     background: #F5F4F0;
 }
 
-.header-container::before {
+.header-container {
     
     
     background-image: url("../images/background.png");
