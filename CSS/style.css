@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6 {
     column-gap: 30px;
 }
 
-.head-h1 {
+#head-h1 {
     font-size: 72px;
     font-family: 'Neucha';    
 }
