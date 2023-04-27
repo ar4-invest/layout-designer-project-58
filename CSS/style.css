@@ -106,6 +106,7 @@ p {
     font-weight: bold;
     left: 570px;
     position: absolute;
+    cursor: pointer;
 }    
     
 h2 {
