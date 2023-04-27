@@ -131,7 +131,13 @@ p {
     position: absolute;
     left: 50%;
     transform: translate(-50%);
+    text-align: center;
 
+.p-block2 {
+    padding-bottom: 30px;
+    text-align: center;    
+}    
+    
 .video {
     filter: drop-shadow(0 16px 32px rgba(0 0 0 / 15%));
 }    
