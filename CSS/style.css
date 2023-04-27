@@ -28,6 +28,7 @@
 }
 
 body {
+    position: relative;
     font-family: 'Open Sans';
     font-size: 16px;
     line-height: 1.6em;
@@ -121,6 +122,15 @@ p {
     text-decoration: none;
     text-transform: uppercase;
 }    
+
+.main-container {
+    position: relative;
+}
+
+.div-main-container {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
 
 .video {
     filter: drop-shadow(0 16px 32px rgba(0 0 0 / 15%));
