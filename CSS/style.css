@@ -136,7 +136,7 @@ p {
     transform: translate(-50%);
     text-align: center;
 
-.p-block2 {
+#p-block2 {
     padding-top: 0;
     padding-bottom: 30px;
     text-align: center;    
