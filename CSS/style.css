@@ -40,9 +40,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .header-container {
     position: relative;
-    border: 1px solid;
-    padding: 10px;
-    
 }
 
 .header-container::before {
@@ -64,7 +61,6 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     max-width: 1110px;
     margin: 0 auto;
-    border: 1px solid;
     padding: 100px 0;
 }
 
