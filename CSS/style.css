@@ -38,6 +38,14 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.2em;
 }
 
+h2 {
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 34px;
+}
+
 p {
     padding-top: 30px;
 }    
@@ -114,10 +122,6 @@ p {
     text-transform: uppercase;
 }    
 
-h2 {
-    font-size: 60px;
-}
-
-h3 {
-    font-size: 34px;
-}
+.video {
+    filter: drop-shadow(0 16px 32px rgba(0 0 0 / 15%));
+}    
