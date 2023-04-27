@@ -111,6 +111,7 @@ p {
 .header-a {
     color: var(--color-white);
     text-decoration: none;
+    text-transform: uppercase;
 }    
 
 h2 {
