@@ -90,6 +90,10 @@ p {
     font-family: 'Neucha';    
 }
 
+.header-h1 {
+    color: #fe8a02;
+}
+    
 h2 {
     font-size: 60px;
 }
