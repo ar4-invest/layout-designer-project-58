@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6 {
 .header-columns-2 {
     columns: 2;
     column-gap: 30px;
-    padding-top: 230px;
+    padding-top: 205px;
 }
 
 #head-h1 {
