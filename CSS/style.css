@@ -153,6 +153,10 @@ p {
     background: var(--color-primary-dark);
 }    
 
+.main-container {
+    
+}
+    
 .main-container-box {
     padding: 24px;    
 }
