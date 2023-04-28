@@ -151,5 +151,6 @@ p {
 .main-container {
     position: relative;
     margin: 0 auto;
+    height: 991px;
     padding: 100px 0;
 }    
