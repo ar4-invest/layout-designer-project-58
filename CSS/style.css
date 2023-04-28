@@ -150,11 +150,16 @@ p {
 }    
 
 #navigation {
-    background: var(--color-primary-dark);
+    
 }    
 
 .main-container {
-    
+    position: relative;
+    max-width: 1110px;
+    height: 991px;
+    margin: 0 auto;
+    padding: 100px 0;
+    background: var(--color-primary-dark);
 }
     
 .main-container-box {
