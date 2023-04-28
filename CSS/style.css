@@ -150,19 +150,20 @@ p {
 }    
 
 #navigation {
-    background: var(--color-primary-dark);
+    
 }    
 
-#main-container {
+.main-container {
+    background: var(--color-primary-dark);
     display: flex;
     width: 1110px;
 }
     
-#main-container-box {
+.main-container-box {
     padding: 24px;    
 }
     
-#main-h1 {
+.main-h1 {
     font-size: 52px;
     font-family: 'Neucha';    
 }
