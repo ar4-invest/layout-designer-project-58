@@ -153,13 +153,13 @@ p {
     background: var(--color-primary-dark);
 }    
 
-.main-container {
+#main-container {
     display: flex;
     flex-wrap: wrap;
     width: 1110px;
 }
     
-.main-container-box {
+#main-container-box {
     padding: 24px;    
 }
     
