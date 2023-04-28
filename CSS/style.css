@@ -162,6 +162,11 @@ p {
     background: var(--color-primary-dark);
 }
     
+.ul-container {
+    display: flex;
+    flex-wrap: wrap;    
+}
+    
 .main-container-box {
     padding: 24px;    
 }
