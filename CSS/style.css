@@ -156,6 +156,7 @@ p {
 .main-container {
     display: flex;
     flex-wrap: wrap;
+    width: 1110px;
 }
     
 .main-container-box {
