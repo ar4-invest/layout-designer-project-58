@@ -153,6 +153,7 @@ p {
     display: flex;
     flex-wrap: wrap;
     list-style: none;
+    text-align: center;
 }
     
 .main-container-box {
