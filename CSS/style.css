@@ -123,14 +123,14 @@ p {
     text-transform: uppercase;
 }    
 
-.main-container {
+.section-container {
     position: relative;
     max-width: 1110px;
     margin: 0 auto;
     padding: 100px 0;
 }
 
-.div-main-container {
+.div-section-container {
     position: absolute;
     left: 50%;
     transform: translate(-50%);
