@@ -150,7 +150,7 @@ p {
 }    
     
 .main-container {
-    background: #42413C;
+    background: var(--color-primary-dark);
 }    
 
 .main-container-box {
