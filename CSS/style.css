@@ -137,12 +137,13 @@ p {
     text-align: center;
 
 .p-block2 {
-    padding-top: 0;
-    padding-bottom: 30px;
     text-align: center;    
+}    
+    
+.video-container {
+    padding-top: 30px;    
 }    
     
 .video {
     filter: drop-shadow(0 16px 32px rgba(0 0 0 / 15%));
-    padding-top: 30px;
 }    
