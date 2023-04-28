@@ -156,3 +156,10 @@ p {
     height: 990px;
     background: #42413C;
 }    
+
+.div-main-container {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    text-align: center;    
+}
