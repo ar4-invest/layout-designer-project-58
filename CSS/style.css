@@ -163,3 +163,12 @@ p {
     transform: translate(-50%);
     text-align: center;    
 }
+
+.div-main-container > div {
+    padding: 24px;    
+}
+    
+#main-h1 {
+    font-size: 52px;
+    font-family: 'Neucha';    
+}
