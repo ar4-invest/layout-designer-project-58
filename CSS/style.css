@@ -208,12 +208,11 @@ main {
 
 #navigation > div h3 {
     font-family: 'Neucha';
-    color: var(--color-white);
 }
 
 #navigation > div > div:nth-child(1) > h3 {
     line-height: 52px;
-    color: var(--color-dark);
+    color: var(--color-white);
 }
 
 #navigation > div p {
