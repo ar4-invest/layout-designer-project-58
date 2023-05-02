@@ -190,3 +190,10 @@ p {
     font-family: 'Neucha';  
     color: var(--color-primary);
 }
+
+.number {
+    padding-bottom: 40px;
+    font-size: 64px;
+    font-family: 'Neucha';
+    line-height: 1;
+}
