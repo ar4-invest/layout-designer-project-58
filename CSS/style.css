@@ -167,6 +167,7 @@ p {
 
 main {
     background: var(--color-primary-dark);
+    padding: 100px 0;
 }
 
 .main-container {
