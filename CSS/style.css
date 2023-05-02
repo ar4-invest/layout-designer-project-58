@@ -172,6 +172,10 @@ p {
     margin-bottom: 20px;
     background: var(--color-light);
 }
+
+.padding-box {
+    padding: 24px;   
+}    
     
 .main-h1 {
     font-size: 52px;
