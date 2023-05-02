@@ -199,6 +199,7 @@ main {
 #navigation > div > div:nth-child(1) {
     font-family: 'Neucha';
     background: var(--color-primary-dark);
+    padding: 0;
 }
 
 #navigation > div > div:nth-child(1) > h3 > span {
