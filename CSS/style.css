@@ -212,7 +212,7 @@ main {
 }
 
 #navigation > div > div:nth-child(1) > h3 {
-    line-height: 52px;
+    line-height: 62px;
     font-size: 52px;
     color: var(--color-white);
     font-weight: 400;
