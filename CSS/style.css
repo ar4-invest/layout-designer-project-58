@@ -197,7 +197,6 @@ main {
 }
 
 #navigation > div > div:nth-child(1) {
-    font-size: 52px;
     font-family: 'Neucha';
     background: var(--color-primary-dark);
 }
@@ -213,6 +212,7 @@ main {
 
 #navigation > div > div:nth-child(1) > h3 {
     line-height: 52px;
+    font-size: 52px;
     color: var(--color-white);
     font-weight: 400;
 }
