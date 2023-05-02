@@ -214,6 +214,7 @@ main {
 #navigation > div > div:nth-child(1) > h3 {
     line-height: 52px;
     color: var(--color-white);
+    font-weight: 400;
 }
 
 #navigation > div p {
