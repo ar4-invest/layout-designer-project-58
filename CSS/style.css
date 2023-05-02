@@ -196,6 +196,10 @@ main {
     padding: 24px;
 }
 
+#navigation > div p {
+    padding: 0;
+} 
+
 .number {
     padding-bottom: 40px;
     font-size: 64px;
