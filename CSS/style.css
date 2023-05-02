@@ -184,10 +184,15 @@ main {
 }
     
 .main-container-box {
+    position: relative;
+    top: 0;
+    left: 0;
     width: 350px;
     height: 323px;
     margin-bottom: 20px;
     background: var(--color-light);
+    width: 33.333%;
+    padding: 24px;
 }
 
 .number {
