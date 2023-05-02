@@ -154,16 +154,20 @@ p {
     filter: drop-shadow(0 16px 32px rgba(0 0 0 / 15%));
 }    
 
+main {
+    background: var(--color-primary-dark);
+}
+
 .main-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     list-style: none;
-    background: var(--color-primary-dark);
     align-items: center;
     text-align: left;
     padding-top: 116px;
     column-gap: 30px;
+    max-width: 1440px;
 }
     
 .main-container-box {
