@@ -205,6 +205,10 @@ main {
     color: var(--color-primary);
 }
 
+#navigation > div > div:nth-child(1) > h3 {
+    line-height: 62px;
+}
+
 #navigation > div p {
     padding: 0;
 } 
