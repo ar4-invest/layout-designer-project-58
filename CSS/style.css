@@ -157,6 +157,7 @@ p {
 .main-container {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     list-style: none;
     background: var(--color-primary-dark);
     align-items: center;
