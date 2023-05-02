@@ -218,7 +218,11 @@ main {
 #navigation > div p {
     padding-top: 12px;
     line-height: 26px;
-} 
+}
+
+#navigation > div > div:nth-child(4,5,6) {
+    height: 348px;
+}
 
 .number {
     padding-bottom: 40px;
