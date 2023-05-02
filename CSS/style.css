@@ -188,24 +188,6 @@ main {
     background: var(--color-light);
 }
 
-.padding-box {
-    padding: 24px;   
-}    
-    
-.main-h1 {
-    font-size: 52px;
-    font-family: 'Neucha';    
-}
-
-.main1-h3 {
-    font-family: 'Neucha';  
-}
-
-.main-h3 {
-    font-family: 'Neucha';  
-    color: var(--color-primary);
-}
-
 .number {
     padding-bottom: 40px;
     font-size: 64px;
