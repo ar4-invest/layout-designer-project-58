@@ -216,7 +216,7 @@ main {
 }
 
 #navigation > div p {
-    padding: 0;
+    padding-top: 12px;
 } 
 
 .number {
