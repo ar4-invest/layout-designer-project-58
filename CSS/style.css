@@ -196,6 +196,12 @@ main {
     padding: 24px;
 }
 
+.main-container-box:hover {
+    color: var(--color-white);
+    background: var(--color-primary);
+    cursor: pointer;
+}
+
 #navigation > div > div:nth-child(1) {
     font-family: 'Neucha';
     background: var(--color-primary-dark);
