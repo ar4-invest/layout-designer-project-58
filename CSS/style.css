@@ -99,6 +99,11 @@ p {
     font-family: 'Neucha';    
 }
 
+#head2-h1 {
+    font-size: 72px;
+    font-family: 'Neucha';    
+}
+
 .header-h1 {
     color: var(--color-primary);
 }
