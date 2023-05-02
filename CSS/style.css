@@ -194,6 +194,7 @@ main {
     margin-bottom: 20px;
     background: var(--color-light);
     padding: 24px;
+    font-family: 'Neucha';
 }
 
 #navigation > div > div:nth-child(1) {
@@ -202,6 +203,10 @@ main {
 }
 
 #navigation > div > div:nth-child(1) > h3 > span {
+    color: var(--color-primary);
+}
+
+#navigation > div h3 {
     color: var(--color-primary);
 }
 
