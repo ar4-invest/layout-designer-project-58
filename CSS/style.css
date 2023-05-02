@@ -207,6 +207,7 @@ main {
 }
 
 #navigation > div h3 {
+    font-family: 'Neucha';
     color: var(--color-primary);
 }
 
