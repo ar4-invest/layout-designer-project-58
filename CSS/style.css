@@ -180,5 +180,6 @@ p {
 
 .main-h3 {
     font-size: 52px;
-    font-family: 'Neucha';    
+    font-family: 'Neucha';  
+    color: var(--color-primary);
 }
