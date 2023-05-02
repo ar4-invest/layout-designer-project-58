@@ -163,12 +163,13 @@ p {
     align-items: center;
     text-align: left;
     padding-top: 116px;
+    column-gap: 30px;
 }
     
 .main-container-box {
     width: 350px;
     height: 323px;
-    padding: 24px;
+    margin-bottom: 20px;
     background: var(--color-light);
 }
     
