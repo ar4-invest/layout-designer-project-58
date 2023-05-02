@@ -212,7 +212,8 @@ main {
 }
 
 #navigation > div > div:nth-child(1) > h3 {
-    line-height: 62px;
+    line-height: 52px;
+    color: var(--color-dark);
 }
 
 #navigation > div p {
