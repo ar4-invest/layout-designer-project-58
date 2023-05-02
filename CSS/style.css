@@ -199,6 +199,7 @@ main {
 #navigation > div > div:nth-child(1) {
     font-size: 52px;
     font-family: 'Neucha';
+    background: var(--color-primary-dark);
 }
 
 #navigation > div > div:nth-child(1) > h3 > span {
@@ -207,7 +208,7 @@ main {
 
 #navigation > div h3 {
     font-family: 'Neucha';
-    color: var(--color-primary);
+    color: var(--color-white);
 }
 
 #navigation > div > div:nth-child(1) > h3 {
