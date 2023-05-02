@@ -168,6 +168,7 @@ main {
     padding-top: 116px;
     column-gap: 30px;
     max-width: 1440px;
+    margin: 0 auto;
 }
     
 .main-container-box {
