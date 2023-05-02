@@ -162,11 +162,13 @@ p {
     background: var(--color-primary-dark);
     align-items: center;
     text-align: left;
+    padding-top: 116px;
 }
     
 .main-container-box {
     padding: 24px;
     width: 25%;
+    background: var(--color-light);
 }
     
 .main-h1 {
