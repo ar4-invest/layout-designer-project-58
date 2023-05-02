@@ -159,7 +159,7 @@ p {
     flex-wrap: wrap;
     list-style: none;
     background: var(--color-primary-dark);
-    lign-items: center;
+    align-items: center;
     text-align: left;
 }
     
