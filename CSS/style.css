@@ -196,6 +196,15 @@ main {
     padding: 24px;
 }
 
+#navigation > div > div:nth-child(1) {
+    font-size: 52px;
+    font-family: 'Neucha';
+}
+
+#navigation > div > div:nth-child(1) > h3 > span {
+    color: var(--color-primary);
+}
+
 #navigation > div p {
     padding: 0;
 } 
