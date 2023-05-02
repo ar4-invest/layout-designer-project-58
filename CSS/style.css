@@ -194,7 +194,6 @@ main {
     margin-bottom: 20px;
     background: var(--color-light);
     padding: 24px;
-    font-family: 'Neucha';
 }
 
 #navigation > div > div:nth-child(1) {
