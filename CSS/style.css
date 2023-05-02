@@ -158,13 +158,14 @@ p {
     display: flex;
     flex-wrap: wrap;
     list-style: none;
-    text-align: center;
     background: var(--color-primary-dark);
+    lign-items: center;
+    text-align: left;
 }
     
 .main-container-box {
     padding: 24px;
-    width: 33%;
+    width: 25%;
 }
     
 .main-h1 {
