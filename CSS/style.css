@@ -166,8 +166,9 @@ p {
 }
     
 .main-container-box {
+    width: 350px;
+    height: 323px;
     padding: 24px;
-    width: 25%;
     background: var(--color-light);
 }
     
