@@ -37,6 +37,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     line-height: 1.2em;
+    font-family: 'Neucha';
 }
 
 h2 {
@@ -96,12 +97,10 @@ p {
 
 #head-h1 {
     font-size: 72px;
-    font-family: 'Neucha';    
 }
 
 #head2-h1 {
-    font-size: 72px;
-    font-family: 'Neucha';    
+    font-size: 72px;    
 }
 
 .header-h1 {
@@ -196,14 +195,13 @@ main {
     padding: 24px;
 }
 
-.main-container-box:hover #navigation > div h3 {
+.main-container-box:hover {
     color: var(--color-white);
     background: var(--color-primary);
     cursor: pointer;
 }
 
 #navigation > div > div:nth-child(1) {
-    font-family: 'Neucha';
     background: var(--color-primary-dark);
     padding: 0;
 }
@@ -213,7 +211,6 @@ main {
 }
 
 #navigation > div h3 {
-    font-family: 'Neucha';
     color: var(--color-primary);
 }
 
