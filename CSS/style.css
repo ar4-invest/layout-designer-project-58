@@ -196,7 +196,7 @@ main {
     padding: 24px;
 }
 
-.main-container-box:hover {
+h3 .main-container-box:hover {
     color: var(--color-white);
     background: var(--color-primary);
     cursor: pointer;
