@@ -320,3 +320,36 @@ main {
     font-size: 14px;
     padding-left: 10px;
 }
+
+.ikea-columns-2-premature-optimization {
+    display: flex;
+    columns: 2;
+    column-gap: 30px;
+}
+
+#premature-optimization > div > div > div > div:nth-child(2) > p:nth-child(1) {
+    padding: 0;
+    font-family: 'Neucha';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: var(--color-dark-light);
+}
+
+#premature-optimization > div > div > div > div:nth-child(2) > h1 {
+    font-family: 'Neucha';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 72px;
+    color: #2A2626;
+}
+
+#premature-optimization > div > div > div > div:nth-child(2) > p:nth-child(3) {
+    font-family: 'Neucha';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 41px;
+    color: #2A2626;
