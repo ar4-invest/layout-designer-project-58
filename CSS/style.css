@@ -262,6 +262,7 @@ main {
 }
 
 .ikea-columns-2 {
+    display: flex;
     columns: 2;
     column-gap: 30px;
 }
