@@ -484,3 +484,8 @@ main {
     line-height: 41px;
     color: var(--color-dark);
 }
+
+.footer-container {
+    position: relative;
+    height: 581px;
+}
