@@ -95,7 +95,7 @@ p {
     height: 525px;
 }
 
-.columns-2 {
+.header-columns-2 {
     columns: 2;
     column-gap: 30px;
     padding-top: 170px;
@@ -257,4 +257,9 @@ main {
     font-size: 64px;
     font-family: 'Neucha';
     line-height: 1;
+}
+
+.ikea-columns-2 {
+    columns: 2;
+    column-gap: 30px;
 }
