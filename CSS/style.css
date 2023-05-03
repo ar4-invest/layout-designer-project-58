@@ -270,6 +270,7 @@ main {
 .ikea-columns-2-2 {
     columns: 2;
     column-gap: 30px;
+    color: var(--color-white);
 }
 
 .shadow {
