@@ -322,6 +322,27 @@ main {
     padding-left: 10px;
 }
 
+.header-container-premature-optimization {
+    position: relative;
+    background: var(--color-brown);
+    height: 960px;
+}
+
+.header-container-premature-optimization::before {
+    position: absolute;
+    width: 1440px;
+    height: 960px;
+    left: 50%;
+    transform: translate(-50%);
+    
+    background-image: url("../images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 10%;
+    
+    content: "";
+}
+
 .small-h-premature-optimization {
     height: 26px;
     background: #FFFFFF;
