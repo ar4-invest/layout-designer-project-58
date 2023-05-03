@@ -335,7 +335,7 @@ main {
     font-weight: 400;
     font-size: 24px;
     line-height: 29px;
-    color: var(--color-dark-light);
+    color: var(--color-white-light);
 }
 
 #premature-optimization > div > div > div > div:nth-child(2) > h1 {
@@ -344,7 +344,7 @@ main {
     font-weight: 400;
     font-size: 60px;
     line-height: 72px;
-    color: #2A2626;
+    color: var(--color-white);
 }
 
 #premature-optimization > div > div > div > div:nth-child(2) > p:nth-child(3) {
@@ -353,4 +353,4 @@ main {
     font-weight: 400;
     font-size: 34px;
     line-height: 41px;
-    color: #2A2626;
+    color: var(--color-white);
