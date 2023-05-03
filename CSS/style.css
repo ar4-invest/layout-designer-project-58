@@ -249,6 +249,7 @@ main {
 
 #navigation > div > div:nth-child(n+4) {
     height: 348px;
+    margin-bottom: 0;
 }
 
 .number {
