@@ -293,7 +293,7 @@ main {
     font-weight: 400;
     font-size: 60px;
     line-height: 72px;
-    color: #2A2626;
+    color: var(--color-dark);
 }
 
 #ikea-effect > div > div > div > div:nth-child(2) > p:nth-child(3) {
@@ -302,7 +302,7 @@ main {
     font-weight: 400;
     font-size: 34px;
     line-height: 41px;
-    color: #2A2626;
+    color: var(--color-dark);
 }
 
 .small-h {
@@ -417,7 +417,7 @@ main {
     font-weight: 400;
     font-size: 60px;
     line-height: 72px;
-    color: var(--color-white);
+    color: var(--color-dark);
 }
 
 #distortion-of-novelty > div > div > div > div:nth-child(2) > p:nth-child(3) {
@@ -426,5 +426,5 @@ main {
     font-weight: 400;
     font-size: 34px;
     line-height: 41px;
-    color: var(--color-white);
+    color: var(--color-dark);
 }
