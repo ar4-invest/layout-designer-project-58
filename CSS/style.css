@@ -307,12 +307,16 @@ main {
 .small-h {
     height: 26px;
     background: #B09A81;
-    font-family: 'Open Sans';
-    font-style: normal;
-    font-size: 14px;
     display: flex;
     align-items: center;
     text-transform: uppercase;
     color: #FFFFFF;
-    padding-top: 100px;
+    margin-top: 100px;
 } 
+
+.small-h > h4 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 14px;
+    padding-left: 10px;
+}
