@@ -269,6 +269,16 @@ main {
     line-height: 1;
 }
 
+.font-p {
+    padding: 0;
+    font-family: 'Neucha';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: var(--color-dark-light);
+}
+
 .ikea-columns-2 {
     display: flex;
     columns: 2;
@@ -284,16 +294,6 @@ main {
 
 .shadow {
     filter: drop-shadow(0px 16px 32px rgba(0, 0, 0, 0.15));
-}
-
-#ikea-effect > div > div > div > div:nth-child(2) > p:nth-child(1) {
-    padding: 0;
-    font-family: 'Neucha';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 29px;
-    color: var(--color-dark-light);
 }
 
 #ikea-effect > div > div > div > div:nth-child(2) > h1 {
@@ -378,16 +378,6 @@ main {
     column-gap: 30px;
 }
 
-#premature-optimization > div > div > div > div:nth-child(2) > p:nth-child(1) {
-    padding: 0;
-    font-family: 'Neucha';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 29px;
-    color: var(--color-white-light);
-}
-
 #premature-optimization > div > div > div > div:nth-child(2) > h1 {
     color: var(--color-white);
 }
@@ -399,16 +389,6 @@ main {
     font-size: 34px;
     line-height: 41px;
     color: var(--color-white);
-}
-
-#distortion-of-novelty > div > div > div > div:nth-child(2) > p:nth-child(1) {
-    padding: 0;
-    font-family: 'Neucha';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 29px;
-    color: var(--color-white-light);
 }
 
 #distortion-of-novelty > div > div > div > div:nth-child(2) > h1 {
@@ -424,16 +404,6 @@ main {
     color: var(--color-dark);
 }
 
-#hyperbolic-depreciation > div > div > div > div:nth-child(2) > p:nth-child(1) {
-    padding: 0;
-    font-family: 'Neucha';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 29px;
-    color: var(--color-white-light);
-}
-
 #hyperbolic-depreciation > div > div > div > div:nth-child(2) > h1 {
     color: var(--color-white);
 }
@@ -445,16 +415,6 @@ main {
     font-size: 34px;
     line-height: 41px;
     color: var(--color-white);
-}
-
-#errors-in-planning > div > div > div > div:nth-child(2) > p:nth-child(1) {
-    padding: 0;
-    font-family: 'Neucha';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 29px;
-    color: var(--color-white-light);
 }
 
 #errors-in-planning > div > div > div > div:nth-child(2) > h1 {
