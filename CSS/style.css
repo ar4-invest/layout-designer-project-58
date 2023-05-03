@@ -218,7 +218,13 @@ main {
     cursor: pointer;
 }
 
-.main-container-box:hover h3 a {
+.main-container-box:hover h3 {
+    color: var(--color-white);
+    background: var(--color-primary);
+    cursor: pointer;
+}
+
+.main-container-box:hover a {
     color: var(--color-white);
     background: var(--color-primary);
     cursor: pointer;
