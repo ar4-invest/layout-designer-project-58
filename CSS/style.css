@@ -196,7 +196,24 @@ main {
     padding: 24px;
 }
 
-.main-container-box:hover .main-container-box h3 {
+.main-container-box-child1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 350px;
+    height: 323px;
+    margin-bottom: 20px;
+    background: var(--color-light);
+    padding: 24px;
+}
+
+.main-container-box:hover {
+    color: var(--color-white);
+    background: var(--color-primary);
+    cursor: pointer;
+}
+
+.main-container-box:hover h3 {
     color: var(--color-white);
     background: var(--color-primary);
     cursor: pointer;
