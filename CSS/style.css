@@ -220,14 +220,10 @@ main {
 
 .main-container-box:hover h3 {
     color: var(--color-white);
-    background: var(--color-primary);
-    cursor: pointer;
-}
+ }
 
-.main-container-box:hover a {
+#navigation > div a:hover {
     color: var(--color-white);
-    background: var(--color-primary);
-    cursor: pointer;
 }
 
 #navigation > div > div:nth-child(1) {
