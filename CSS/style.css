@@ -36,12 +36,11 @@ body {
 }
 
 h2, h3, h4, h5, h6 {
-    line-height: 1.2em;
     font-family: 'Neucha';
+    line-height: 1.2em;
 }
 
 h1 {
-    line-height: 1.2em;
     font-family: 'Neucha';
     font-style: normal;
     font-weight: 400;
@@ -69,8 +68,8 @@ p {
 
 .header-container {
     position: relative;
-    background: var(--color-light);
     height: 960px;
+    background: var(--color-light);
 }
 
 .header-container::before {
@@ -129,29 +128,29 @@ p {
 }
 
 .header-button {
-    background: var(--color-primary);
+    position: absolute;
+    left: 570px;
     padding: 12px 24px;
     border: 0;
     font-weight: bold;
-    left: 570px;
-    position: absolute;
     cursor: pointer;
+    background: var(--color-primary);
 }    
 
 .header-button:hover {
-    background: #EA7600;
+    position: absolute;
+    left: 570px;
     padding: 12px 24px;
     border: 0;
     font-weight: bold;
-    left: 570px;
-    position: absolute;
     cursor: pointer;
+    background: #EA7600;
 }  
 
 .header-a {
-    color: var(--color-white);
     text-decoration: none;
     text-transform: uppercase;
+    color: var(--color-white);
 }    
 
 .section-container {
@@ -182,16 +181,16 @@ p {
 }    
 
 main {
-    background: var(--color-primary-dark);
     padding: 100px 0;
+    background: var(--color-primary-dark);
 }
 
 .main-container {
-    align-items: center;
-    text-align: left;
     padding-top: 100px;
     max-width: 1440px;
     margin: 0 auto;
+    align-items: center;
+    text-align: left;
 }
 
 .column-container {
@@ -208,8 +207,8 @@ main {
     width: 350px;
     height: 323px;
     margin-bottom: 20px;
-    background: var(--color-light);
     padding: 24px;
+    background: var(--color-light);
 }
 
 .main-container-box-child1 {
@@ -219,14 +218,14 @@ main {
     width: 350px;
     height: 323px;
     margin-bottom: 20px;
-    background: var(--color-light);
     padding: 24px;
+    background: var(--color-light);
 }
 
 .main-container-box:hover {
+    cursor: pointer;
     color: var(--color-white);
     background: var(--color-primary);
-    cursor: pointer;
 }
 
 .main-container-box:hover h3 {
@@ -238,8 +237,8 @@ main {
 }
 
 #navigation > div > div:nth-child(1) {
-    background: var(--color-primary-dark);
     padding: 0;
+    background: var(--color-primary-dark);
 }
 
 #navigation > div > div:nth-child(1) > h3 > span {
@@ -249,8 +248,8 @@ main {
 #navigation > div > div:nth-child(1) > h3 {
     line-height: 62px;
     font-size: 52px;
-    color: var(--color-white);
     font-weight: 400;
+    color: var(--color-white);
 }
 
 #navigation > div p {
@@ -279,6 +278,7 @@ main {
 .ikea-columns-2-2 {
     columns: 2;
     column-gap: 30px;
+    padding-top: 20px;
     color: var(--color-dark);
 }
 
@@ -310,13 +310,13 @@ main {
 }
 
 .small-h {
-    height: 26px;
-    background: #B09A81;
     display: flex;
+    margin-top: 100px;
+    height: 26px;
     align-items: center;
     text-transform: uppercase;
     color: #FFFFFF;
-    margin-top: 100px;
+    background: #B09A81;
 } 
 
 .small-h > h4 {
@@ -329,13 +329,14 @@ main {
 .ikea-columns-2-3 {
     columns: 2;
     column-gap: 30px;
+    padding-top: 20px;
     color: var(--color-white);
 }
 
 .header-container-premature-optimization {
     position: relative;
-    background: var(--color-brown);
     height: 960px;
+    background: var(--color-brown);
 }
 
 .header-container-premature-optimization::before {
@@ -354,13 +355,13 @@ main {
 }
 
 .small-h-premature-optimization {
-    height: 26px;
-    background: #FFFFFF;
     display: flex;
+    margin-top: 100px;
+    height: 26px;
     align-items: center;
     text-transform: uppercase;
     color: #B09A81;
-    margin-top: 100px;
+    background: #FFFFFF;
 } 
 
 .small-h-premature-optimization > h4 {
