@@ -279,6 +279,10 @@ main {
     color: var(--color-dark-light);
 }
 
+.padding-0 {
+    padding-top: 0;
+}
+
 .ikea-columns-2 {
     display: flex;
     columns: 2;
