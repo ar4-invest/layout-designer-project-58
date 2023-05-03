@@ -303,3 +303,17 @@ main {
     line-height: 41px;
     color: #2A2626;
 }
+
+.small-h {
+    height: 26px;
+    background: #B09A81;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+} 
