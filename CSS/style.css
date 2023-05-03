@@ -304,7 +304,7 @@ main {
     color: #2A2626;
 }
 
-.small-h {
+.small-h h4 {
     height: 26px;
     background: #B09A81;
     font-family: 'Open Sans';
@@ -316,4 +316,5 @@ main {
     align-items: center;
     text-transform: uppercase;
     color: #FFFFFF;
+    padding-top: 100px;
 } 
