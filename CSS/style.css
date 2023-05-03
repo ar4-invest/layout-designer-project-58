@@ -60,12 +60,14 @@ p {
 
 .header-container {
     position: relative;
+    background: var(--color-light);
+    height: 914px;
 }
 
 .header-container::before {
     position: absolute;
     width: 1440px;
-    height: 960px;
+    height: 900px;
     left: 50%;
     transform: translate(-50%);
     
