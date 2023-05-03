@@ -35,9 +35,18 @@ body {
     color: var(--color-dark);  
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
     line-height: 1.2em;
     font-family: 'Neucha';
+}
+
+h1 {
+    line-height: 1.2em;
+    font-family: 'Neucha';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 72px;
 }
 
 h2 {
@@ -288,11 +297,6 @@ main {
 }
 
 #ikea-effect > div > div > div > div:nth-child(2) > h1 {
-    font-family: 'Neucha';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 60px;
-    line-height: 72px;
     color: var(--color-dark);
 }
 
@@ -384,11 +388,6 @@ main {
 }
 
 #premature-optimization > div > div > div > div:nth-child(2) > h1 {
-    font-family: 'Neucha';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 60px;
-    line-height: 72px;
     color: var(--color-white);
 }
 
@@ -412,11 +411,6 @@ main {
 }
 
 #distortion-of-novelty > div > div > div > div:nth-child(2) > h1 {
-    font-family: 'Neucha';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 60px;
-    line-height: 72px;
     color: var(--color-dark);
 }
 
@@ -440,11 +434,6 @@ main {
 }
 
 #hyperbolic-depreciation > div > div > div > div:nth-child(2) > h1 {
-    font-family: 'Neucha';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 60px;
-    line-height: 72px;
     color: var(--color-white);
 }
 
@@ -468,11 +457,6 @@ main {
 }
 
 #errors-in-planning > div > div > div > div:nth-child(2) > h1 {
-    font-family: 'Neucha';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 60px;
-    line-height: 72px;
     color: var(--color-dark);
 }
 
