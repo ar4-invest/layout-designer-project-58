@@ -489,3 +489,12 @@ main {
     position: relative;
     height: 581px;
 }
+
+.footer-wrapper {
+    position: absolute;
+    width: 1110px;
+    height: 190px;
+    left: 165px;
+    top: 100px;
+    background: var(--color-primary-dark);
+}
