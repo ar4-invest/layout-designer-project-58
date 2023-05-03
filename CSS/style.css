@@ -270,7 +270,7 @@ main {
 .ikea-columns-2-2 {
     columns: 2;
     column-gap: 30px;
-    color: var(--color-white);
+    color: var(--color-dark);
 }
 
 .shadow {
@@ -320,6 +320,12 @@ main {
     font-style: normal;
     font-size: 14px;
     padding-left: 10px;
+}
+
+.ikea-columns-2-3 {
+    columns: 2;
+    column-gap: 30px;
+    color: var(--color-white);
 }
 
 .header-container-premature-optimization {
@@ -393,3 +399,4 @@ main {
     font-size: 34px;
     line-height: 41px;
     color: var(--color-white);
+}
