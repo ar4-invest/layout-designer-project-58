@@ -322,6 +322,23 @@ main {
     padding-left: 10px;
 }
 
+.small-h-premature-optimization {
+    height: 26px;
+    background: #FFFFFF;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    color: #B09A81;
+    margin-top: 100px;
+} 
+
+.small-h-premature-optimization > h4 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
 .ikea-columns-2-premature-optimization {
     display: flex;
     flex-direction: row-reverse;
