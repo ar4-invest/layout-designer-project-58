@@ -46,6 +46,7 @@ h2 {
 
 h3 {
     font-size: 34px;
+    color: var(--color-primary);
 }
 
 p {
@@ -207,10 +208,6 @@ main {
 }
 
 #navigation > div > div:nth-child(1) > h3 > span {
-    color: var(--color-primary);
-}
-
-#navigation > div h3 {
     color: var(--color-primary);
 }
 
