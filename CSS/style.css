@@ -279,6 +279,16 @@ main {
     color: var(--color-dark-light);
 }
 
+.font-p-dark {
+    padding: 0;
+    font-family: 'Neucha';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: var(--color-white-light);
+}
+
 .padding-0 {
     padding-top: 0;
 }
