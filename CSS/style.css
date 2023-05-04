@@ -480,4 +480,13 @@ main {
 
 .find-box-p .find-box-p2 {
     position: absolute;
+    padding-top: 0;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
 }
+
+.find-box-p {
+    margin-top: -30px;
+} 
