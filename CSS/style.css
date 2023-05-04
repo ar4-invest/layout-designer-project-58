@@ -478,7 +478,7 @@ main {
     font-size: 14px;
 }
 
-.find-box-p .find-box-p2 {
+.find-box-p, .find-box-p2 {
     position: absolute;
     padding-top: 0;
     color: #FFFFFF;
