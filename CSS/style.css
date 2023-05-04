@@ -454,7 +454,7 @@ main {
 .footer-wrapper {
     display: flex;
     justify-content: center;
-    margin: 100px auto 0;
+    margin: 100px auto 60px;
     padding: 55px;
     max-width: 1110px;
     height: 190px;
@@ -470,4 +470,8 @@ main {
     top: 0px;
     background: var(--color-white);
     border: 1px solid #E3E3E3;
+}
+
+.footer-p {
+ 
 }
