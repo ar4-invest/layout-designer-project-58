@@ -511,6 +511,11 @@ body > footer > div > div > div:nth-child(2) > div.find-box > div:nth-child(2) >
     background: var(--color-primary);
 }
 
+.send:hover {
+    cursor: pointer;
+    background: #EA7600;
+} 
+
 .send-img {
     display: flex;
     justify-content: center;
