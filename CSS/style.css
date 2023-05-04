@@ -453,7 +453,7 @@ main {
 
 .footer-wrapper {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     margin: 100px auto 60px;
     padding: 55px;
     max-width: 1110px;
