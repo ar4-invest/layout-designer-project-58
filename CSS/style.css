@@ -510,3 +510,12 @@ body > footer > div > div > div:nth-child(2) > div.find-box > div:nth-child(2) >
     margin-left: auto;
     background: var(--color-primary);
 }
+
+.send-img {
+    display: flex;
+    justify-content: center;
+}
+
+body > footer > div > div > div:nth-child(2) > div.find-box > div.send > div > img {
+    padding: 12px;
+}
