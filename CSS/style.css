@@ -521,6 +521,6 @@ body > footer > div > div > div:nth-child(2) > div.find-box > div:nth-child(2) >
     justify-content: center;
 }
 
-body > footer > div > div > div:nth-child(2) > div.find-box > div.send > div > img {
+body > footer > div > div > div:nth-child(2) > div.find-box > div.send > a > div > img {
     padding: 12px;
 }
