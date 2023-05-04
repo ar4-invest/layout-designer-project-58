@@ -477,3 +477,7 @@ main {
     text-align: center;
     font-size: 14px;
 }
+
+.find-box-p .find-box-p2 {
+    position: absolute;
+}
