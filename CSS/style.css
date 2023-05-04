@@ -463,6 +463,7 @@ main {
 }
 
 .find-box {
+    position: relative;
     width: 485px;
     height: 50px;
     left: 0px;
