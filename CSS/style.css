@@ -476,6 +476,10 @@ main {
     color: #FFFFFF;
 }
 
+body > footer > div > div > div:nth-child(2) > div.find-box > div:nth-child(2) > p > a {
+    color: #FFFFFF;
+}
+
 .footer-p {
     padding-top: 16px;
     text-align: center;
