@@ -454,7 +454,7 @@ main {
 .footer-wrapper {
     display: flex;
     justify-content: center;
-    margin: 100px auto;
+    margin: 100px auto 0;
     padding: 55px;
     max-width: 1110px;
     height: 190px;
