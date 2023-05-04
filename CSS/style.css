@@ -472,6 +472,10 @@ main {
     border: 1px solid #E3E3E3;
 }
 
+.footer-h3 {
+    color: #FFFFFF;
+}
+
 .footer-p {
     padding-top: 16px;
     text-align: center;
