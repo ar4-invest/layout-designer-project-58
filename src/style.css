@@ -447,6 +447,7 @@ main {
 
 .footer-container {
     position: relative;
+    padding-top: 100px;
     height: 581px;
     max-width: 1440px;
     margin: 0 auto;
@@ -455,7 +456,7 @@ main {
 .footer-wrapper {
     display: flex;
     justify-content: space-between;
-    margin: 100px auto 60px;
+    margin: 0 auto 60px;
     padding: 55px;
     max-width: 1110px;
     height: 190px;
