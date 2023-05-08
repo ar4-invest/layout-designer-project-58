@@ -164,7 +164,7 @@ p {
 .section-container {
     position: relative;
     max-width: 1110px;
-    height: 805px;
+    height: 810px;
     margin: 0 auto;
     padding: 100px 0;
 }
@@ -194,7 +194,7 @@ main {
 }
 
 .main-container {
-    padding-top: 105px;
+    padding-top: 100px;
     max-width: 1440px;
     margin: 0 auto;
     align-items: center;
