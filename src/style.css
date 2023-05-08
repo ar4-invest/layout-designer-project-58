@@ -115,6 +115,9 @@ p {
 
 .head-h1 {
     font-size: 72px;
+    font-family: 'Neucha';
+    font-style: normal;
+    font-weight: 400;
 }
 
 #head2-h1 {
@@ -186,7 +189,7 @@ p {
 }    
 
 main {
-    padding: 120px 0;
+    padding: 100px 0;
     background: var(--color-primary-dark);
 }
 
