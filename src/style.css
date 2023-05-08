@@ -164,7 +164,7 @@ p {
 .section-container {
     position: relative;
     max-width: 1110px;
-    height: 935px;
+    height: 945px;
     margin: 0 auto;
     padding: 100px 0;
 }
@@ -189,7 +189,7 @@ p {
 }    
 
 main {
-    margin-top: -100px;
+    margin-top: -110px;
     padding: 100px 0;
     background: var(--color-primary-dark);
 }
