@@ -179,11 +179,11 @@ p {
 .p-block2 {
     text-align: center;    
 }    
-    
-.video-container {
-    padding-top: 30px;    
-}    
-    
+
+body > section:nth-child(2) > div > div > div.p-block2 > p {
+    padding-bottom: 30px;
+}
+   
 .video {
     filter: drop-shadow(0 16px 32px rgba(0 0 0 / 15%));
 }    
