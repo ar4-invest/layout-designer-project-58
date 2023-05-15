@@ -11,12 +11,12 @@
 }
 
 @font-face {
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
   src: url("Fonts/Open_Sans/OpenSans-VariableFont_wdth,wght.ttf");
 }
 
 @font-face {
-  font-family: 'Neucha';
+  font-family: "Neucha";
   src: url("Fonts/Neucha/Neucha-Regular.ttf");
 }
 
@@ -42,7 +42,7 @@ h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-family: 'Neucha';
+  font-family: "Neucha";
   font-style: normal;
   font-weight: 400;
   font-size: 60px;
@@ -114,13 +114,13 @@ p {
 
 .head-h1 {
   font-size: 72px;
-  font-family: 'Neucha';
+  font-family: "Neucha";
   font-style: normal;
   font-weight: 400;
 }
 
 #head2-h1 {
-  font-family: 'Neucha';
+  font-family: "Neucha";
   font-style: normal;
   font-weight: 400;
   font-size: 60px;
@@ -274,13 +274,13 @@ main {
 .number {
   padding-bottom: 40px;
   font-size: 64px;
-  font-family: 'Neucha';
+  font-family: "Neucha";
   line-height: 1;
 }
 
 .font-p {
   padding: 0;
-  font-family: 'Neucha';
+  font-family: "Neucha";
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -290,7 +290,7 @@ main {
 
 .font-p-dark {
   padding: 0;
-  font-family: 'Neucha';
+  font-family: "Neucha"
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -324,7 +324,7 @@ main {
 }
 
 #ikea-effect > div > div > div > div:nth-child(2) > p:nth-child(3) {
-  font-family: 'Neucha';
+  font-family: "Neucha";
   font-style: normal;
   font-weight: 400;
   font-size: 34px;
@@ -338,12 +338,12 @@ main {
   height: 26px;
   align-items: center;
   text-transform: uppercase;
-  color: #FFFFFF;
+  color: #FFF;
   background: #B09A81;
 } 
 
 .small-h > h4 {
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
   font-style: normal;
   font-size: 14px;
   padding-left: 10px;
@@ -383,11 +383,11 @@ main {
   align-items: center;
   text-transform: uppercase;
   color: #B09A81;
-  background: #FFFFFF;
+  background: #FFF;
 } 
 
 .small-h-premature-optimization > h4 {
-  font-family: 'Open Sans';
+  font-family: "Open Sans"
   font-style: normal;
   font-size: 14px;
   padding-left: 10px;
@@ -418,7 +418,7 @@ main {
 }
 
 #distortion-of-novelty > div > div > div > div:nth-child(2) > p:nth-child(3) {
-  font-family: 'Neucha';
+  font-family: "Neucha";
   font-style: normal;
   font-weight: 400;
   font-size: 34px;
@@ -430,7 +430,7 @@ main {
 }
 
 #hyperbolic-depreciation > div > div > div > div:nth-child(2) > p:nth-child(3) {
-  font-family: 'Neucha';
+  font-family: "Neucha";
   font-style: normal;
   font-weight: 400;
   font-size: 34px;
@@ -443,7 +443,7 @@ main {
 }
 
 #errors-in-planning > div > div > div > div:nth-child(2) > p:nth-child(3) {
-  font-family: 'Neucha';
+  font-family: "Neucha";
   font-style: normal;
   font-weight: 400;
   font-size: 34px;
@@ -481,11 +481,11 @@ main {
 }
 
 .footer-h3 {
-  color: #FFFFFF;
+  color: #FFF;
 }
 
 body > footer > div > div > div:nth-child(2) > div.find-box > div:nth-child(2) > p > a {
-  color: #FFFFFF;
+  color: #FFF;
 }
 
 .footer-p {
@@ -497,7 +497,7 @@ body > footer > div > div > div:nth-child(2) > div.find-box > div:nth-child(2) >
 .find-box-p, .find-box-p2 {
   position: absolute;
   padding-top: 0;
-  color: #FFFFFF;
+  color: #FFF;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
