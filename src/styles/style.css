@@ -318,7 +318,7 @@ main {
 }
 
 .shadow {
-  filter: drop-shadow(0px 16px 32px rgba(0, 0, 0, 15%));
+  filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 15%));
 }
 
 #ikea-effect > div > div > div > div:nth-child(2) > h1 {
@@ -475,8 +475,8 @@ main {
   position: relative;
   width: 485px;
   height: 50px;
-  left: 0px;
-  top: 0px;
+  left: 0;
+  top: 0;
   background: var(--color-white);
   border: 1px solid #000;
 }
@@ -485,7 +485,7 @@ main {
   color: #fff;
 }
 
-body > footer > div > div > div:nth-child(2) > div.find-box > div:nth-child(2) > p > a {
+body > footer > div > div > div:nth-child(2) > div .find-box > div:nth-child(2) > p > a {
   color: #fff;
 }
 
