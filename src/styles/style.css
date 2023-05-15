@@ -345,7 +345,7 @@ main {
 }
 
 .small-h > h4 {
-  font-family: Open Sans;
+  font-family: "Open Sans", sans-serif;
   font-style: normal;
   font-size: 14px;
   padding-left: 10px;
@@ -387,7 +387,7 @@ main {
 }
 
 .small-h-premature-optimization > h4 {
-  font-family: Open Sans;
+  font-family: "Open Sans", sans-serif;
   font-style: normal;
   font-size: 14px;
   padding-left: 10px;
@@ -425,6 +425,7 @@ main {
   line-height: 41px;
   color: var(--color-dark);
 }
+
 #hyperbolic-depreciation > div > div > div > div:nth-child(2) > h1 {
   color: var(--color-white);
 }
@@ -485,7 +486,7 @@ main {
 }
 
 body > footer > div > div > div:nth-child(2) > div.find-box > div:nth-child(2) > p > a {
-  color: #ff;
+  color: #fff;
 }
 
 .footer-p {
@@ -494,7 +495,8 @@ body > footer > div > div > div:nth-child(2) > div.find-box > div:nth-child(2) >
   font-size: 14px;
 }
 
-.find-box-p, .find-box-p2 {
+.find-box-p,
+.find-box-p2 {
   position: absolute;
   padding-top: 0;
   color: #fff;
@@ -521,8 +523,8 @@ body > footer > div > div > div:nth-child(2) > div.find-box > div:nth-child(2) >
 
 .send:hover {
   cursor: pointer;
-  background: #EA7600;
-} 
+  background: #ea7600;
+}
 
 .send-img {
   display: flex;
