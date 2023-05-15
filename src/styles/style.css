@@ -11,33 +11,37 @@
 }
 
 @font-face {
-  font-family: "Open Sans";
+  font-family: 'Open Sans';
   src: url("Fonts/Open_Sans/OpenSans-VariableFont_wdth,wght.ttf");
 }
 
 @font-face {
-  font-family: "Neucha";
+  font-family: 'Neucha';
   src: url("Fonts/Neucha/Neucha-Regular.ttf");
 }
 
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box
+  box-sizing: border-box;
 }
 
 body {
   position: relative;
   max-width: 1440px;
   margin: auto;
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
   font-size: 16px;
   line-height: 1.6em;
-  color: var(--color-dark);  
+  color: var(--color-dark);
 }
 
-h2, h3, h4, h5, h6 {
-  font-family: 'Neucha';
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Neucha";
   line-height: 1.2em;
 }
 
@@ -79,12 +83,10 @@ p {
   height: 914px;
   left: 50%;
   transform: translate(-50%);
-    
   background-image: url("images/background.png");
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 10%;
-    
+  opacity: 0.1;
   content: "";
 }
 
@@ -151,14 +153,14 @@ p {
   border: 0;
   font-weight: bold;
   cursor: pointer;
-  background: #EA7600;
-}  
+  background: #ea7600;
+}
 
 .header-a {
   text-decoration: none;
   text-transform: uppercase;
   color: var(--color-white);
-}    
+}
 
 .section-container {
   position: relative;
@@ -177,15 +179,15 @@ p {
 
 .p-block2 {
   text-align: center;    
-}    
+}
 
 body > section:nth-child(2) > div > div > div.p-block2 > p {
   padding-bottom: 30px;
 }
-   
+
 .video {
   filter: drop-shadow(0 16px 32px rgba(0 0 0 / 15%));
-}    
+}
 
 main {
   margin-top: -100px;
@@ -208,7 +210,7 @@ main {
   justify-content: center;
   column-gap: 30px;
 }
-    
+
 .main-container-box {
   position: relative;
   top: 0;
