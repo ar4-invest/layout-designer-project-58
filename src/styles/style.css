@@ -11,12 +11,12 @@
 }
 
 @font-face {
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
   src: url("../Fonts/Open_Sans/OpenSans-VariableFont_wdth,wght.ttf");
 }
 
 @font-face {
-  font-family: 'Neucha';
+  font-family: "Neucha";
   src: url("../Fonts/Neucha/Neucha-Regular.ttf");
 }
 
@@ -41,12 +41,12 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Neucha";
+  font-family: Neucha;
   line-height: 1.2em;
 }
 
 h1 {
-  font-family: "Neucha";
+  font-family: Neucha;
   font-style: normal;
   font-weight: 400;
   font-size: 60px;
@@ -64,7 +64,7 @@ h3 {
 
 p {
   padding-top: 30px;
-}    
+}
 
 #navigation > div a {
   text-decoration: none;
@@ -116,13 +116,13 @@ p {
 
 .head-h1 {
   font-size: 72px;
-  font-family: "Neucha";
+  font-family: Neucha;
   font-style: normal;
   font-weight: 400;
 }
 
 #head2-h1 {
-  font-family: "Neucha";
+  font-family: Neucha;
   font-style: normal;
   font-weight: 400;
   font-size: 60px;
@@ -144,7 +144,7 @@ p {
   font-weight: bold;
   cursor: pointer;
   background: var(--color-primary);
-}    
+}
 
 .header-button:hover {
   position: absolute;
@@ -178,7 +178,7 @@ p {
 }
 
 .p-block2 {
-  text-align: center;    
+  text-align: center;
 }
 
 body > section:nth-child(2) > div > div > div.p-block2 > p {
@@ -241,7 +241,7 @@ main {
 
 .main-container-box:hover h3 {
   color: var(--color-white);
- }
+}
 
 #navigation > div a:hover {
   color: var(--color-white);
@@ -276,7 +276,7 @@ main {
 .number {
   padding-bottom: 40px;
   font-size: 64px;
-  font-family: "Neucha";
+  font-family: Neucha;
   line-height: 1;
 }
 
@@ -369,12 +369,10 @@ main {
   height: 960px;
   left: 50%;
   transform: translate(-50%);
-    
   background-image: url("images/background.png");
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 10%;
-    
+  opacity: 0.1;
   content: "";
 }
 
@@ -384,9 +382,9 @@ main {
   height: 26px;
   align-items: center;
   text-transform: uppercase;
-  color: #B09A81;
-  background: #FFF;
-} 
+  color: #b09a81;
+  background: #fff;
+}
 
 .small-h-premature-optimization > h4 {
   font-family: "Open Sans";
