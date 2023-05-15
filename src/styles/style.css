@@ -387,7 +387,7 @@ main {
 } 
 
 .small-h-premature-optimization > h4 {
-  font-family: "Open Sans"
+  font-family: "Open Sans";
   font-style: normal;
   font-size: 14px;
   padding-left: 10px;
@@ -405,7 +405,7 @@ main {
 }
 
 #premature-optimization > div > div > div > div:nth-child(2) > p:nth-child(3) {
-  font-family: 'Neucha';
+  font-family: "Neucha";
   font-style: normal;
   font-weight: 400;
   font-size: 34px;
