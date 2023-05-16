@@ -319,7 +319,7 @@ main {
 }
 
 .shadow {
-  filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 15%));
+  filter: drop-shadow(0 16px 32px rgba(var(--color-video) / 15%));
 }
 
 #ikea-effect > div > div > div > div:nth-child(2) > h1 {
