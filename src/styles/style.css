@@ -486,7 +486,7 @@ main {
   color: #fff;
 }
 
-body > footer > div > div > div:nth-child(2) > div .find-box > div:nth-child(2) > p > a {
+#navigation > div a {
   color: #fff;
 }
 
